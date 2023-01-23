@@ -62,7 +62,6 @@
   <img alt="Vue" src="https：//img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Laravel" src="https：//img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />  
   <img alt="Ruby-on-Rails" src="https：//img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-</p>
 
 ## 職務経歴詳細
 
