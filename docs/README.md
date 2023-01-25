@@ -92,7 +92,7 @@
     - 限られた開発期間の中でリリースまでこぎつけるため、更新頻度が高い Python の OCPP ライブラリを使用し、使用する充電器の対応バージョンに合わせて OCPP 1.6 に準拠したプロトコルを実装した
   - データベース： PostgreSQL v13
   - CI/CD： GitHub Actions
-  - ハードウェア： Raspberry Pi 2W、ESP32（マイコンモジュール）、環境センサー
+  - ハードウェア： Raspberry Pi 2W、ESP32（マイコンモジュール）、環境センサー、電力計、ブレーカー、リレー
     - 入手性やコスト、スペックを考慮し、IoT デバイスを選択した
     - Raspberry Pi 2W の確保のため、正規代理店の調査および交渉を行った
   - 無線通信： LTE、Wi-Fi、RFID
@@ -145,7 +145,7 @@
   - マイコンボード用開発環境：Arduino IDE v1.8、obniz-cli v0.10
   - Python Packages： pytest v7.1、RPi.GPIO v0.7.0
   - CI/CD： GitHub Actions
-  - ハードウェア： Raspberry Pi W、ESP32（マイコンモジュール）、TF-Luna（測距センサ）や TWELITE（マイコンモジュール）
+  - ハードウェア： Raspberry Pi W、ESP32（マイコンモジュール）、TF-Luna（測距センサ）、TWELITE（マイコンモジュール）、電力計、ブレーカー、リレー
   - 無線通信： LTE、Wi-Fi、RFID
   - ソース管理： GitHub
   - インフラ： AWS（EC2、RDS、Route53、CloudWatch、Lambda）、SORACOM（IoT SIM）
