@@ -14,8 +14,8 @@
 ## 各種アカウント
 
 <p>
-<a href="https：//github.com/kobayashi-masayuki" target="_blank"><img alt="Github" src="https：//img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https：//qiita.com/kobayashi-masayuki" target="_blank"><img alt="Medium" src="https：//img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+<a href="https://github.com/kobayashi-masayuki" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://qiita.com/kobayashi-masayuki" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 </p>
 
 ---
@@ -44,24 +44,24 @@
 ### 言語
 
 <p>
-  <img alt="Python" src="https：//img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="JavaScript" src="https：//img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="C++" src="https：//img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
-  <img alt="Java" src="https：//img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="Ruby" src="https：//img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
-  <img alt="PHP" src="https：//img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
 
 <p>
-  <img alt="Flask" src="https：//img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
-  <img alt="FastAPI" src="https：//img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
-  <img alt="Node.js" src="https：//img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Docker" src="https：//img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Vue" src="https：//img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-  <img alt="Laravel" src="https：//img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />  
-  <img alt="Ruby-on-Rails" src="https：//img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />  
+  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
 </p>
 
 ## 職務経歴詳細
@@ -104,7 +104,7 @@
   - コミュニケーションツール： Slack、Zoom、Google Meet
   - タスク管理： Asana
   - その他： Docker v20、docker-compose v2.13、 Wireshark（パケット解析）
-- ## **ソフトスキル**
+- **ソフトスキル**
   - 課題や調査報告の際、第 3 者が一目で状況を把握できるように構成を考えて丁寧な資料作成を心がけ、課題と解決策を提案するようにしている
   - IoT の知識を深めるために IoT の書籍や記事を参考にしたり、勉強会に参加して、IoT の知識アップデートを行っている
   - トラブルシューティングの際、概略だけでも第一報は迅速に報告して、どの程度の影響かを把握、緊急性を判断するようにしている
@@ -152,7 +152,7 @@
   - コミュニケーションツール： Slack、Zoom、Google Meet、Teams
   - タスク管理： Asana、Notion
   - その他： Docker v20、docker-compose v2.13
-- ## **ソフトスキル**
+- **ソフトスキル**
   - プロ意識を持って、顧客との打ち合わせや、社内の打ち合わせ、開発やオペレーションを行った
   - 既存システムの改善や新規機能の開発を行うために、顧客の課題をヒアリングし、技術的な解決策を提示した
   - 知見を広げるため、様々な異業種交流イベントに積極的に参加して、普段は交流のない業種の人と会話することで、新たな知識や視座を獲得した
