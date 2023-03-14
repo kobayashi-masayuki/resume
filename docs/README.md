@@ -209,7 +209,7 @@
 
 - ルーチン業務の自動処理システム開発・運用
 - 機械学習を用いた広告の分析基盤構築、最適な広告の自動生成
-- WEB クローラ・サイトコントローラの開発・運用
+- Web クローラ・サイトコントローラの開発・運用
 
 - **プロジェクト規模：**
   - 平均 1〜5 人チームでのアジャイル開発
@@ -223,7 +223,7 @@
   - 言語： Ruby v2.7
   - フレームワーク： Ruby on Rails v6.0、Sinatra v2.0
   - Web サーバ： Puma v3.1
-  - Ruby ライブラリ: activerecord、mysql2、nokogiri、chrome_remote、aws-sdk、slack-notifier、rake、sendgrid-ruby、mechanize
+  - Ruby ライブラリ： activerecord、mysql2、nokogiri、chrome_remote、aws-sdk、slack-notifier、Rake、sendgrid-ruby、mechanize
   - データベース： MySQL v5.7
   - CI/CD： Jenkins
   - バグ監視： Sentry
