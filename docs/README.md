@@ -14,8 +14,8 @@
 ## 各種アカウント
 
 <p>
-<a href="https://github.com/kobayashi-masayuki" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kawamataryo-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://qiita.com/kobayashi-masayuki" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+<a href="https://github.com/kobayashi-masayuki" target="_blank"><img alt="Github" src="https://img.shields.io/badge/kobayashi_masayuki-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://qiita.com/kobayashi-masayuki" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Masayuki_Kobayashi-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 </p>
 
 ---
